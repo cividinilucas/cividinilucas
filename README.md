@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cividinilucas
-- 👀 I’m interested in programs, everything thats involves programming. 
-- 🌱 I’m currently learning  Python
+- 👀 I’m interested in learn more than i know now, evoluting every day.  
+- 🌱 I’m currently learning Python, C, JS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
