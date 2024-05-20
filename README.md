@@ -3,7 +3,6 @@
 
 - Now, i'm working and stuyding to improve my abilities. **Mainly in: Java, JSX, React and Spring**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
