@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Lucas =)</h1>
 <h3 align="center">I'm studying systems development</h3>
 
-- Now, i'm working and stuyding to improve my abilities. **Mainly in: Java, JSX, React and Spring**
+- Now, i'm working and stuyding to improve my abilities. **Mainly in: Java, JSX, React and Kotlin**
 
 <p align="left">
 </p>
